@@ -1,2 +1,2 @@
 # google-homepage
-HTML/CSS Project for Odin
+A damn near exact replica of the home page with hover effects and all.
